@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MDSUREMBGMIPARTNER</title>
+    <title>Welcome to GODL ZeusOp Gaming Channel</title>
     <style>
         body {
             background-color: #181818;
@@ -47,26 +47,10 @@
             background-color: #c0392b;
         }
 
-        .weapons-container {
-            display: flex;
-            justify-content: center;
-            margin-top: 40px;
-        }
-
-        .weapon-button {
-            background-color: #3498db;
-            border: none;
-            color: white;
-            padding: 15px 30px;
+        .description {
             font-size: 1.2rem;
-            margin: 0 10px;
-            cursor: pointer;
-            border-radius: 8px;
-            transition: background-color 0.3s;
-        }
-
-        .weapon-button:hover {
-            background-color: #2980b9;
+            color: #BDC3C7;
+            margin-top: 20px;
         }
 
         .footer {
@@ -83,23 +67,20 @@
 <body>
 
     <div class="container">
-        <h1>Welcome to MDSUREM BGMI Partner</h1>
-        <img src="https://via.placeholder.com/200x100.png?text=BGMI+Logo" alt="BGMI Logo" class="logo">
-        <h2>Bringing You the Best BGMI Experience</h2>
+        <h1>Welcome to GODL ZeusOp Gaming Channel</h1>
+        <img src="https://via.placeholder.com/200x100.png?text=GODL+Logo" alt="GODL Logo" class="logo">
+        <h2>We Have Done Our First Project!</h2>
+        <p class="description">
+            If you want to do more projects by using Docker and Kubernetes, please subscribe and comment. We will do it and upload the video in a simple way. If you like it, then hit the like button; or else, leave it. 
+            Always choose hard work and smart work.
+        </p>
 
-        <button class="button">Start Playing</button>
-
-        <div class="weapons-container">
-            <button class="weapon-button">AKM</button>
-            <button class="weapon-button">M416</button>
-            <button class="weapon-button">AWM</button>
-        </div>
+        <button class="button">Subscribe Now</button>
     </div>
 
     <div class="footer">
-        <p>&copy; 2025 MDSUREM BGMI Partner - All Rights Reserved</p>
+        <p>&copy; 2025 GODL ZeusOp Gaming Channel - All Rights Reserved</p>
     </div>
 
 </body>
 </html>
-
